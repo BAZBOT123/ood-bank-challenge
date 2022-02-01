@@ -1,6 +1,6 @@
+/* eslint-disable no-undef */
 const Statement = require('../src/statement')
 const Transaction = require('../src/transaction')
-const Bank = require('../src/bank')
 
 describe('statement', () => {
 
